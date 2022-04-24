@@ -1,2 +1,1 @@
-# dangolmarathan-
-Golang cli 1000 hr development timer 
+My Docker image for nginx rtmp with jwt auth 
